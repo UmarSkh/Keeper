@@ -5,7 +5,7 @@
 **React**.
 
 ### **Access the Deployed App**
-Click [here](https://keeper-wj7lq3awr-umar-shaikhs-projects-264d8599.vercel.app/) to access the live application.
+Click [here](https://keeper-seven-nu.vercel.app/) to access the live application.
 
 ---
 
@@ -29,7 +29,7 @@ The app is built using the following technologies:
 ## **4. How to Use**
 
 ### **I. Access the App**
-- For production: Use the deployed URL [here](https://keeper-wj7lq3awr-umar-shaikhs-projects-264d8599.vercel.app/).
+- For production: Use the deployed URL [here](https://keeper-seven-nu.vercel.app/).
 - For development: Open `http://localhost:3000` in your browser.
 
 ### **II. Take Notes**
